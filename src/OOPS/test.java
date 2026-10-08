@@ -1,5 +1,5 @@
 package OOPS;
-
+/*
 
 class Car{
     String color;
@@ -33,3 +33,4 @@ public class test {
         c1.accelerate(50);
     }
 }
+*/
