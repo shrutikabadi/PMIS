@@ -11,7 +11,7 @@ class Dog extends Animal{
     }
 
         }
-public class practisingInheritance {
+public class simpleInheritance {
     public static void main(String[] args){
 
         Dog dog = new Dog();
